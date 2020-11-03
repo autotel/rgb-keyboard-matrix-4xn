@@ -1,4 +1,4 @@
-18629036931423624
+18630641332369624
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -82039,6 +82039,13 @@ varistor SIOV
 0
 2
 2
+key-led
+LED_WS2812B_PLCC4-back-mount
+https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+LED RGB NeoPixel
+0
+4
+4
 key-led
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
